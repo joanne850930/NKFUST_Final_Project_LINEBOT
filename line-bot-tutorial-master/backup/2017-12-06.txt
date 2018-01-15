@@ -1,0 +1,20 @@
+
+ * Running on https://linebot.nkfuststudents.cf:443/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 158-260-627
+139.162.78.135 - - [06/Dec/2017 02:40:43] "GET / HTTP/1.1" 200 -
+209.126.136.7 - - [06/Dec/2017 03:57:58] "GET / HTTP/1.1" 200 -
+54.183.130.127 - - [06/Dec/2017 04:24:02] "GET / HTTP/1.1" 200 -
+212.83.150.38 - - [06/Dec/2017 04:51:54] "GET /a2billing/common/javascript/misc.js HTTP/1.1" 404 -
+207.244.108.211 - - [06/Dec/2017 07:27:31] "GET /dlCustServFile.asp HTTP/1.1" 404 -
+207.244.108.211 - - [06/Dec/2017 07:27:32] "GET /customerService.xls-1.htm HTTP/1.1" 404 -
+207.244.108.211 - - [06/Dec/2017 07:27:33] "GET /dlCustServFile.txt HTTP/1.1" 404 -
+207.244.108.211 - - [06/Dec/2017 07:27:34] "GET /dlCustServFile.xml HTTP/1.1" 404 -
+207.244.108.211 - - [06/Dec/2017 07:27:35] "GET /export.xml HTTP/1.1" 404 -
+207.244.108.211 - - [06/Dec/2017 07:27:35] "GET /export.txt HTTP/1.1" 404 -
+210.14.78.91 - - [06/Dec/2017 09:01:08] "GET / HTTP/1.1" 200 -
+125.64.94.200 - - [06/Dec/2017 10:43:31] "GET / HTTP/1.0" 200 -
+158.85.81.123 - - [06/Dec/2017 17:16:14] "GET / HTTP/1.1" 200 -
+139.162.78.135 - - [06/Dec/2017 17:51:28] "GET / HTTP/1.1" 200 -
+74.82.47.3 - - [06/Dec/2017 21:52:18] "GET / HTTP/1.1" 200 -

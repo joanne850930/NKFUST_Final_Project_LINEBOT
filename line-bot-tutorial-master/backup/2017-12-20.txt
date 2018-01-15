@@ -1,0 +1,12 @@
+
+ * Running on https://linebot.nkfuststudents.cf:443/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 158-260-627
+66.240.219.146 - - [20/Dec/2017 00:09:22] "GET / HTTP/1.1" 200 -
+66.240.219.146 - - [20/Dec/2017 00:09:30] code 400, message Bad request syntax ('quit')
+66.240.219.146 - - [20/Dec/2017 00:09:30] "quit" HTTPStatus.BAD_REQUEST -
+169.54.233.119 - - [20/Dec/2017 12:10:00] "GET / HTTP/1.1" 200 -
+216.218.206.66 - - [20/Dec/2017 21:39:49] "GET / HTTP/1.1" 200 -
+139.162.106.181 - - [20/Dec/2017 21:40:35] "GET / HTTP/1.1" 200 -
+138.246.253.19 - - [20/Dec/2017 22:46:55] "HEAD / HTTP/1.1" 200 -

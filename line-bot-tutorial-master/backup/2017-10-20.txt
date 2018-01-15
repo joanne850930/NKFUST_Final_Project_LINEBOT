@@ -1,0 +1,120 @@
+nohup: ignoring input
+ * Running on https://linebot.nkfuststudents.cf:443/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 158-260-627
+--------------------------------------------------------------------------------
+INFO in app [/home/jc0424057/line-bot-tutorial-master/app.py:42]:
+Request body: {"events":[{"type":"message","replyToken":"9496b35a114d4965a14a6086a93d9808","source":{"userId":"Uab52ed589f74408dfcbaf19f04f13132","type":"user"},"timestamp":1507886158677,"message":{"type":"text","id":"6835291451315","text":"."}}]}
+--------------------------------------------------------------------------------
+203.104.146.157 - - [13/Oct/2017 17:04:48] "POST /callback HTTP/1.1" 200 -
+184.105.247.195 - - [13/Oct/2017 18:27:19] "GET / HTTP/1.1" 200 -
+192.241.226.80 - - [13/Oct/2017 19:21:49] "GET / HTTP/1.1" 200 -
+--------------------------------------------------------------------------------
+INFO in app [/home/jc0424057/line-bot-tutorial-master/app.py:42]:
+Request body: {"events":[{"type":"message","replyToken":"7cbdc763c3f74e84b70eeeb8cfe9e4d5","source":{"userId":"Uab52ed589f74408dfcbaf19f04f13132","type":"user"},"timestamp":1507911007085,"message":{"type":"text","id":"6837383794832","text":"."}}]}
+--------------------------------------------------------------------------------
+203.104.146.157 - - [13/Oct/2017 23:58:56] "POST /callback HTTP/1.1" 200 -
+--------------------------------------------------------------------------------
+INFO in app [/home/jc0424057/line-bot-tutorial-master/app.py:42]:
+Request body: {"events":[{"type":"follow","replyToken":"6cc18cf912cb45f69e89799ddd042fe0","source":{"userId":"Ub659c6fde821e81432dc138cbd8c83fb","type":"user"},"timestamp":1507914309118}]}
+--------------------------------------------------------------------------------
+203.104.146.157 - - [14/Oct/2017 00:53:57] "POST /callback HTTP/1.1" 200 -
+139.162.116.133 - - [14/Oct/2017 12:00:51] "GET / HTTP/1.1" 200 -
+59.120.243.19 - - [14/Oct/2017 14:55:49] "GET / HTTP/1.1" 200 -
+184.105.139.67 - - [14/Oct/2017 18:17:53] "GET / HTTP/1.1" 200 -
+--------------------------------------------------------------------------------
+INFO in app [/home/jc0424057/line-bot-tutorial-master/app.py:42]:
+Request body: {"events":[{"type":"message","replyToken":"81c72e8cbd384b8e8b9b8007b3f31822","source":{"userId":"U88cd2574ffeadaefe1180fbffbfddfa5","type":"user"},"timestamp":1507980713610,"message":{"type":"text","id":"6840676595970","text":"123"}}]}
+--------------------------------------------------------------------------------
+203.104.146.155 - - [14/Oct/2017 19:20:42] "POST /callback HTTP/1.1" 200 -
+--------------------------------------------------------------------------------
+INFO in app [/home/jc0424057/line-bot-tutorial-master/app.py:42]:
+Request body: {"events":[{"type":"message","replyToken":"603abfe684904a79873c317b06dfcb07","source":{"userId":"U88cd2574ffeadaefe1180fbffbfddfa5","type":"user"},"timestamp":1507981923789,"message":{"type":"text","id":"6840774634286","text":"嗨嗨"}}]}
+--------------------------------------------------------------------------------
+203.104.146.155 - - [14/Oct/2017 19:40:51] "POST /callback HTTP/1.1" 200 -
+106.45.0.162 - - [14/Oct/2017 23:44:55] "GET / HTTP/1.0" 200 -
+54.238.210.1 - - [15/Oct/2017 02:57:26] "GET / HTTP/1.1" 200 -
+137.116.71.170 - - [15/Oct/2017 07:53:15] "GET /robots.txt HTTP/1.1" 404 -
+139.162.116.133 - - [15/Oct/2017 11:26:13] "GET / HTTP/1.1" 200 -
+54.238.210.1 - - [15/Oct/2017 13:02:48] "GET / HTTP/1.1" 200 -
+--------------------------------------------------------------------------------
+INFO in app [/home/jc0424057/line-bot-tutorial-master/app.py:42]:
+Request body: {"events":[{"type":"message","replyToken":"ea6ce4e0ef214a6199db1e25804dcdb5","source":{"userId":"Uab52ed589f74408dfcbaf19f04f13132","type":"user"},"timestamp":1508045247719,"message":{"type":"text","id":"6843851833305","text":"開始玩"}}]}
+--------------------------------------------------------------------------------
+203.104.146.157 - - [15/Oct/2017 13:16:14] "POST /callback HTTP/1.1" 200 -
+216.218.206.66 - - [15/Oct/2017 18:41:42] "GET / HTTP/1.1" 200 -
+--------------------------------------------------------------------------------
+INFO in app [/home/jc0424057/line-bot-tutorial-master/app.py:42]:
+Request body: {"events":[{"type":"message","replyToken":"af8d9981c9314b4da0ad76a968d7cb1d","source":{"userId":"U88cd2574ffeadaefe1180fbffbfddfa5","type":"user"},"timestamp":1508073283759,"message":{"type":"text","id":"6845821318091","text":"555"}}]}
+--------------------------------------------------------------------------------
+203.104.146.155 - - [15/Oct/2017 21:03:30] "POST /callback HTTP/1.1" 200 -
+71.6.202.198 - - [16/Oct/2017 08:18:26] "GET /xxbb HTTP/1.1" 404 -
+164.132.91.13 - - [16/Oct/2017 13:03:41] "GET / HTTP/1.1" 200 -
+184.105.139.69 - - [16/Oct/2017 18:37:42] "GET / HTTP/1.1" 200 -
+164.52.7.131 - - [16/Oct/2017 18:59:44] "GET / HTTP/1.1" 200 -
+101.251.246.66 - - [17/Oct/2017 05:32:33] "GET / HTTP/1.1" 200 -
+139.162.106.181 - - [17/Oct/2017 08:57:46] "GET / HTTP/1.1" 200 -
+54.238.210.1 - - [17/Oct/2017 09:48:56] "GET / HTTP/1.1" 200 -
+--------------------------------------------------------------------------------
+INFO in app [/home/jc0424057/line-bot-tutorial-master/app.py:42]:
+Request body: {"events":[{"type":"message","replyToken":"92b1d98dffac4a0b889d4ec59104c71f","source":{"userId":"U88cd2574ffeadaefe1180fbffbfddfa5","type":"user"},"timestamp":1508206884486,"message":{"type":"text","id":"6852760694460","text":"開始玩"}}]}
+--------------------------------------------------------------------------------
+203.104.146.155 - - [17/Oct/2017 10:10:08] "POST /callback HTTP/1.1" 200 -
+--------------------------------------------------------------------------------
+INFO in app [/home/jc0424057/line-bot-tutorial-master/app.py:42]:
+Request body: {"events":[{"type":"message","replyToken":"23bb4f021d614e84a99f606eb5cf50b4","source":{"userId":"U88cd2574ffeadaefe1180fbffbfddfa5","type":"user"},"timestamp":1508206890184,"message":{"type":"text","id":"6852761004120","text":"12"}}]}
+--------------------------------------------------------------------------------
+203.104.146.155 - - [17/Oct/2017 10:10:14] "POST /callback HTTP/1.1" 200 -
+46.17.46.213 - - [17/Oct/2017 17:56:06] "GET /a2billing/admin/Public/index.php HTTP/1.1" 404 -
+46.17.46.213 - - [17/Oct/2017 17:56:06] "GET /recordings/ HTTP/1.1" 404 -
+184.105.139.69 - - [17/Oct/2017 18:39:15] "GET / HTTP/1.1" 200 -
+60.191.29.19 - - [17/Oct/2017 23:23:05] "GET / HTTP/1.0" 200 -
+158.85.81.117 - - [18/Oct/2017 12:02:22] "GET / HTTP/1.1" 200 -
+45.55.14.214 - - [18/Oct/2017 16:26:34] "GET / HTTP/1.1" 200 -
+216.218.206.67 - - [18/Oct/2017 18:37:03] "GET / HTTP/1.1" 200 -
+--------------------------------------------------------------------------------
+INFO in app [/home/jc0424057/line-bot-tutorial-master/app.py:42]:
+Request body: {"events":[{"type":"follow","replyToken":"8b7ad6c8804f45998072dcfbc1f3cb4c","source":{"userId":"Ufccced279fa50bd869ca60120d122e01","type":"user"},"timestamp":1508332210270}]}
+--------------------------------------------------------------------------------
+203.104.146.155 - - [18/Oct/2017 20:58:52] "POST /callback HTTP/1.1" 200 -
+71.6.202.198 - - [18/Oct/2017 22:01:07] "GET /xxbb HTTP/1.1" 404 -
+36.238.142.243 - - [18/Oct/2017 22:17:27] "GET / HTTP/1.1" 200 -
+36.238.142.243 - - [18/Oct/2017 22:17:30] "GET /robots.txt HTTP/1.1" 404 -
+36.238.142.243 - - [18/Oct/2017 22:17:30] "GET /robots.txt HTTP/1.1" 404 -
+36.238.142.243 - - [18/Oct/2017 22:17:30] "GET /robots.txt HTTP/1.1" 404 -
+36.238.142.243 - - [18/Oct/2017 22:17:30] "GET /robots.txt HTTP/1.1" 404 -
+71.6.135.131 - - [19/Oct/2017 01:20:47] "GET / HTTP/1.1" 200 -
+71.6.135.131 - - [19/Oct/2017 01:20:56] code 400, message Bad request syntax ('quit')
+71.6.135.131 - - [19/Oct/2017 01:20:56] "quit" HTTPStatus.BAD_REQUEST -
+139.162.78.135 - - [19/Oct/2017 08:01:31] "GET / HTTP/1.1" 200 -
+210.14.78.91 - - [19/Oct/2017 08:56:41] "GET / HTTP/1.1" 200 -
+52.198.166.60 - - [19/Oct/2017 13:22:20] "GET / HTTP/1.1" 200 -
+158.85.81.114 - - [19/Oct/2017 14:41:50] "GET / HTTP/1.1" 200 -
+172.20.190.79 - - [19/Oct/2017 17:01:49] "GET / HTTP/1.1" 200 -
+--------------------------------------------------------------------------------
+INFO in app [/home/jc0424057/line-bot-tutorial-master/app.py:42]:
+Request body: {"events":[{"type":"message","replyToken":"b20ad76ff77e4e79bad8502d84156886","source":{"userId":"Uab52ed589f74408dfcbaf19f04f13132","type":"user"},"timestamp":1508405124438,"message":{"type":"text","id":"6863900452422","text":"新聞"}}]}
+--------------------------------------------------------------------------------
+203.104.146.157 - - [19/Oct/2017 17:14:05] "POST /callback HTTP/1.1" 200 -
+--------------------------------------------------------------------------------
+INFO in app [/home/jc0424057/line-bot-tutorial-master/app.py:42]:
+Request body: {"events":[{"type":"message","replyToken":"6c9caf0c30be475ca53288a452022a2f","source":{"userId":"Uab52ed589f74408dfcbaf19f04f13132","type":"user"},"timestamp":1508405127678,"message":{"type":"text","id":"6863900698149","text":"蘋果即時新聞"}}]}
+--------------------------------------------------------------------------------
+203.104.146.157 - - [19/Oct/2017 17:14:10] "POST /callback HTTP/1.1" 200 -
+--------------------------------------------------------------------------------
+INFO in app [/home/jc0424057/line-bot-tutorial-master/app.py:42]:
+Request body: {"events":[{"type":"message","replyToken":"e4a8755088914db29820331500e53fe4","source":{"userId":"Uab52ed589f74408dfcbaf19f04f13132","type":"user"},"timestamp":1508405189056,"message":{"type":"text","id":"6863905347128","text":"科技新報"}}]}
+--------------------------------------------------------------------------------
+/usr/local/lib/python3.6/dist-packages/requests/packages/urllib3/connectionpool.py:843: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+203.104.146.157 - - [19/Oct/2017 17:15:10] "POST /callback HTTP/1.1" 200 -
+184.105.139.68 - - [19/Oct/2017 18:31:02] "GET / HTTP/1.1" 200 -
+104.236.167.140 - - [19/Oct/2017 19:04:01] "GET / HTTP/1.1" 200 -
+71.6.202.198 - - [19/Oct/2017 19:11:47] "GET /xxbb HTTP/1.1" 404 -
+45.55.13.178 - - [19/Oct/2017 19:18:32] "GET / HTTP/1.1" 200 -
+139.162.106.181 - - [20/Oct/2017 02:05:27] "GET / HTTP/1.1" 200 -
+184.105.247.196 - - [20/Oct/2017 18:45:58] "GET / HTTP/1.1" 200 -
+139.162.78.135 - - [20/Oct/2017 20:15:53] "GET / HTTP/1.1" 200 -
+1.174.71.55 - - [20/Oct/2017 22:14:20] "GET / HTTP/1.1" 200 -
+1.174.71.55 - - [20/Oct/2017 22:14:20] "GET /favicon.ico HTTP/1.1" 404 -

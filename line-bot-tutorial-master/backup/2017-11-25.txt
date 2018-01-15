@@ -1,0 +1,39 @@
+
+Traceback (most recent call last):
+  File "/home/jc0424057/line-bot-tutorial-master/app.py", line 526, in <module>
+    app.run(host='linebot.nkfuststudents.cf', port=443, ssl_context=context, threaded=True, debug=True)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 841, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 691, in run_simple
+    s.bind((hostname, port))
+OSError: [Errno 98] Address already in use
+Error in sys.excepthook:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/apport_python_hook.py", line 63, in apport_excepthook
+    from apport.fileutils import likely_packaged, get_recent_crashes
+  File "/usr/lib/python3/dist-packages/apport/__init__.py", line 5, in <module>
+    from apport.report import Report
+  File "/usr/lib/python3/dist-packages/apport/report.py", line 30, in <module>
+    import apport.fileutils
+  File "/usr/lib/python3/dist-packages/apport/fileutils.py", line 23, in <module>
+    from apport.packaging_impl import impl as packaging
+  File "/usr/lib/python3/dist-packages/apport/packaging_impl.py", line 23, in <module>
+    import apt
+  File "/usr/lib/python3/dist-packages/apt/__init__.py", line 23, in <module>
+    import apt_pkg
+ModuleNotFoundError: No module named 'apt_pkg'
+
+Original exception was:
+Traceback (most recent call last):
+  File "/home/jc0424057/line-bot-tutorial-master/app.py", line 526, in <module>
+    app.run(host='linebot.nkfuststudents.cf', port=443, ssl_context=context, threaded=True, debug=True)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 841, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 691, in run_simple
+    s.bind((hostname, port))
+OSError: [Errno 98] Address already in use
+138.246.253.19 - - [25/Nov/2017 01:54:07] "HEAD / HTTP/1.1" 200 -
+95.156.251.10 - - [25/Nov/2017 06:23:39] "GET / HTTP/1.1" 200 -
+71.6.202.198 - - [25/Nov/2017 11:49:52] "GET /xxbb HTTP/1.1" 404 -
+216.218.206.69 - - [25/Nov/2017 21:41:49] "GET / HTTP/1.1" 200 -
+139.162.116.133 - - [25/Nov/2017 23:31:47] "GET / HTTP/1.1" 200 -

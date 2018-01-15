@@ -1,0 +1,10 @@
+
+ * Running on https://linebot.nkfuststudents.cf:443/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 158-260-627
+62.233.65.182 - - [02/Dec/2017 04:01:50] "GET / HTTP/1.1" 200 -
+196.52.43.61 - - [02/Dec/2017 06:10:06] "GET / HTTP/1.1" 200 -
+210.14.78.91 - - [02/Dec/2017 06:10:38] "GET / HTTP/1.1" 200 -
+216.218.206.67 - - [02/Dec/2017 21:52:41] "GET / HTTP/1.1" 200 -
+54.183.130.127 - - [02/Dec/2017 23:53:33] "GET / HTTP/1.1" 200 -

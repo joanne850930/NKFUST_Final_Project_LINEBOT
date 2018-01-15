@@ -1,0 +1,26 @@
+
+ * Running on https://linebot.nkfuststudents.cf:443/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 158-260-627
+139.162.106.181 - - [01/Jan/2018 04:04:34] "GET / HTTP/1.1" 200 -
+--------------------------------------------------------------------------------
+INFO in app [/home/jc0424057/line-bot-tutorial-master/app.py:42]:
+Request body: {"events":[{"type":"message","replyToken":"754e973a10b54d9987400e90e3c79739","source":{"userId":"U88cd2574ffeadaefe1180fbffbfddfa5","type":"user"},"timestamp":1514779531499,"message":{"type":"text","id":"7238062468794","text":"4"}}]}
+--------------------------------------------------------------------------------
+203.104.146.155 - - [01/Jan/2018 12:05:33] "POST /callback HTTP/1.1" 200 -
+--------------------------------------------------------------------------------
+INFO in app [/home/jc0424057/line-bot-tutorial-master/app.py:42]:
+Request body: {"events":[{"type":"message","replyToken":"9f939234f6ac4b88be2854357b790ce7","source":{"userId":"U88cd2574ffeadaefe1180fbffbfddfa5","type":"user"},"timestamp":1514779537201,"message":{"type":"text","id":"7238062889272","text":"開始玩"}}]}
+--------------------------------------------------------------------------------
+203.104.146.155 - - [01/Jan/2018 12:05:38] "POST /callback HTTP/1.1" 200 -
+--------------------------------------------------------------------------------
+INFO in app [/home/jc0424057/line-bot-tutorial-master/app.py:42]:
+Request body: {"events":[{"type":"message","replyToken":"1fdafbaf955047848dc70211f8f3f7ea","source":{"userId":"U88cd2574ffeadaefe1180fbffbfddfa5","type":"user"},"timestamp":1514780137200,"message":{"type":"text","id":"7238106253354","text":"看廢文"}}]}
+--------------------------------------------------------------------------------
+203.104.146.155 - - [01/Jan/2018 12:15:38] "POST /callback HTTP/1.1" 200 -
+--------------------------------------------------------------------------------
+INFO in app [/home/jc0424057/line-bot-tutorial-master/app.py:42]:
+Request body: {"events":[{"type":"message","replyToken":"4a80fe5dc60149af9039b1fa1f204942","source":{"userId":"U88cd2574ffeadaefe1180fbffbfddfa5","type":"user"},"timestamp":1514780141592,"message":{"type":"text","id":"7238106568336","text":"正妹"}}]}
+--------------------------------------------------------------------------------
+203.104.146.155 - - [01/Jan/2018 12:15:42] "POST /callback HTTP/1.1" 200 -

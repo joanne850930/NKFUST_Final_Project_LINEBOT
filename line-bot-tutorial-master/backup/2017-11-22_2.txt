@@ -1,0 +1,18 @@
+nohup: ignoring input
+ * Running on https://linebot.nkfuststudents.cf:443/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 158-260-627
+
+
+ * Running on https://linebot.nkfuststudents.cf:443/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 158-260-627
+--------------------------------------------------------------------------------
+INFO in app [/home/jc0424057/line-bot-tutorial-master/app.py:42]:
+Request body: {"events":[{"type":"message","replyToken":"bd661d0f03c24a4db62704a21c7e8734","source":{"userId":"Uab52ed589f74408dfcbaf19f04f13132","type":"user"},"timestamp":1511346668383,"message":{"type":"text","id":"7028577974601","text":"."}}]}
+--------------------------------------------------------------------------------
+203.104.146.157 - - [22/Nov/2017 18:18:58] "POST /callback HTTP/1.1" 200 -
+event.reply_token: bd661d0f03c24a4db62704a21c7e8734
+event.message.text: .
