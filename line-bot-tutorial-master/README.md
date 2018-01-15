@@ -1,5 +1,11 @@
 # line-bot-Tutorial
-
+-------
+ # 參考 小雷LineBot 聊天機器人的GitHub練習之用 
+網址:
+https://github.com/twtrubiks/line-bot-tutorial
+https://github.com/yiyu0x/web_crawler  
+-------
+ 
  教你建立自己的 line-bot 使用 python flask 📝
 
  line-bot-tutorial use python flask
